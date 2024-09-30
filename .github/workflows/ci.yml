@@ -9,7 +9,7 @@ on:
   pull_request:
     branches: ["main"]
 jobs:
-  Group Assignment Steps & Requirements:
+  Assignment-Steps:
     runs-on: ubuntu-latest
 
     steps:
