@@ -1,6 +1,6 @@
 name: Group Assignment GitHub Actions CI
 
-run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
+run-name: COMP-3104, Group 41 is testing out GitHub Actions 🚀
 # Controls when the workflow will run
 on:
   # Triggers the workflow on push or pull request events but only for the "main" branch
@@ -9,7 +9,7 @@ on:
   pull_request:
     branches: ["main"]
 jobs:
-  build:
+  Group Assignment Steps & Requirements:
     runs-on: ubuntu-latest
 
     steps:
