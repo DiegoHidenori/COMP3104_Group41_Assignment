@@ -3,7 +3,8 @@
 ## Group Members
 - **Leader:** Diego Hidenori (101472085) - [GitHub](https://github.com/DiegoHidenori)
 - **Member 2:** Liz Cruz (101470163) - [GitHub](https://github.com/qanntu)
-- **Member 3:** name lastname (xxxxx) - [GitHub](https://github.com/)
+- **Member 3:** Kaman Wong (101424041) - [GitHub](https://github.com/KamanWong0317) 
+- **Member 4:**name lastname (xxxxx) - [GitHub](https://github.com/)
 
 ## Project Description
 This repository hosts the group assignment for COMP3104 DevOps course, focusing on
