@@ -1,5 +1,12 @@
 COMP3104-DevOps course 
 
-Summary
-In this course, students will learn how to use various DevOps tools 
-and the impact of DevOps on engineers in the workplace.
+Summary:
+In this course, students will gain knowledge of DevOps techniques 
+and use tools and technologies to deliver solutions such as continuous
+Integration/delivery/deployment strategies, software development 
+lifecycle, etc. 
+Also, During the course, students will learn about the roles and 
+responsibilities of engineers by conducting hands-on experiments 
+in applying DevOps techniques, such as analyzing and using version 
+control system workflows.
+
