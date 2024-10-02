@@ -1,0 +1,19 @@
+George Brown College
+
+    Google Maps:
+        "The George Brown College of Applied Arts and Technology is a public, fully accredited college of applied arts 
+        and technology with three campuses in downtown Toronto. Like many other colleges in Ontario, George Brown 
+        College was chartered in 1966 by the government of Ontario and opened the next year."
+
+    By Campus:
+        Casa Loma Campus:
+            Address: 160 Kendal Ave, Toronto, ON, M5R 1M3
+            Enrollment: 32,117 (2016)
+            President: Gervan Fearon
+            Founded: 1967
+
+        St. James Campus:
+            Address: 200 King Street East, Toronto, ON, M5A 3W8
+
+        Waterfront Campus:
+            Address: 51 Dockside Drive, Toronto, ON, M5A 1B6
