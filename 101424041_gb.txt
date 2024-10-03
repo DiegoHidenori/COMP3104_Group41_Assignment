@@ -1,3 +1,20 @@
-George Brown College is a public college in Toronto 
-with three campuses: St. James, Casa Loma, and Waterfront.
-It offers a wide range of programmes in different fields.
+George Brown College 
+
+Summary:
+George Brown College is a public college in Toronto, Ontario, Canada. 
+It offers a variety of programmes in different fields including business, 
+technology, health sciences, hospitality and arts.
+
+Campuses & Programs:
+- St. James Campus: Business, Catering and Culinary Arts
+- Casa Loma Campus: Programs, Construction, and Design
+- Waterfront Campus: Health Sciences, Nursing and Dental Hygiene
+
+For Student:
+George Brown College focuses on hands-on learning. It has close 
+ties to a variety of industries in Toronto, so many of its 
+programmes include internships or co-op opportunities for students 
+to gain real-world experience. For international students, the 
+College offers English language programmes and a pathway for 
+non-native English speakers. 
+
