@@ -1,0 +1,12 @@
+COMP3104 - DevOps teaches essential procedures for DevOps engineers.
+ It aims to boost productivity through integration of development and operations teams.
+Key Concepts:
+
+1. CI/CD: Automate software delivery for faster, reliable releases.
+2. SDLC: Improve collaboration and efficiency at each software development phase.
+3. Version Control: Use Git to manage code changes and reduce errors.
+4. Containerization: Use Docker for consistent application deployment.
+5. IaC: Manage resources through code for scalability.
+6. Monitoring: Ensure performance with application monitoring and logging.
+7. Microservices: Discuss the shift from monolithic to microservices architecture.
+
