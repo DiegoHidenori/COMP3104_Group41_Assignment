@@ -1,2 +1,10 @@
 COMP3104 DevOps course
 
+DevOps courses provide essential skills for integrating software development 
+and IT operations. Introductory classes cover core concepts like continuous
+integration, automation, and infrastructure as code.
+
+Benefits
+Understand how open-source and cloud-specific DevOps tools help organizations transform product and service delivery with greater agility.
+Develop a holistic DevOps strategy, roadmap and maturity model to support organizational change and digital transformation.
+Enhance your career by gaining advanced DevOps skills needed by technology leaders.
