@@ -1,17 +1,12 @@
-The COMP3104 - DevOps course provides an in-depth understanding of the procedures, protocols, and best practices essential for a DevOps engineer. It focuses on enhancing productivity through the effective integration of development and operations teams. 
+COMP3104 - DevOps teaches essential procedures for DevOps engineers.
+ It aims to boost productivity through integration of development and operations teams.
+Key Concepts:
 
-Key Concepts Covered:
-1. **Continuous Integration/Delivery/Deployment**: Understanding how to implement CI/CD pipelines to automate the software delivery process, ensuring faster and more reliable releases.
-   
-2. **Software Development Lifecycle (SDLC)**: Exploration of various phases in software development, emphasizing the importance of DevOps practices at each stage to improve collaboration and efficiency.
-   
-3. **Version Control Systems**: Utilization of tools like Git to manage code changes, enabling effective collaboration among developers and minimizing the risk of errors during software releases.
-   
-4. **Application Containerization**: Introduction to containerization technologies such as Docker, which facilitate the deployment of applications in a consistent environment across different platforms.
-   
-5. **Infrastructure as Code (IaC)**: Learning to manage and provision computing resources through code, enhancing scalability and reproducibility in deployment processes.
-   
-6. **Monitoring and Logging**: Understanding the importance of monitoring applications and infrastructure to ensure performance and reliability, including the use of logging frameworks for debugging and performance tracking.
-
-7. **Microservices Architecture**: Analyzing the shift from monolithic applications to microservices, discussing the benefits and challenges associated with this architectural approach.
+1. CI/CD: Automate software delivery for faster, reliable releases.
+2. SDLC: Improve collaboration and efficiency at each software development phase.
+3. Version Control: Use Git to manage code changes and reduce errors.
+4. Containerization: Use Docker for consistent application deployment.
+5. IaC: Manage resources through code for scalability.
+6. Monitoring: Ensure performance with application monitoring and logging.
+7. Microservices: Discuss the shift from monolithic to microservices architecture.
 
