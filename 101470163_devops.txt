@@ -1,2 +1,5 @@
 COMP3104 DevOps course
 
+DevOps courses provide essential skills for integrating software development 
+and IT operations. Introductory classes cover core concepts like continuous
+integration, automation, and infrastructure as code.

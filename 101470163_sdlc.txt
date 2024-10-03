@@ -1,2 +1,6 @@
 Importance of learning DevOps in the software development cycle
 
+By enabling organizations to create stronger bonds between Dev, 
+Ops and other stakeholders in the company, DevOps promotes shorter, 
+more controllable iterations through the adoption of best practices, 
+automation and new tools.
