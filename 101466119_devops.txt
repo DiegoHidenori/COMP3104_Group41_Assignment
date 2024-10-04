@@ -7,3 +7,4 @@ responsibilities of DevOps.
 1. Demonstrate knowledge of effective DevOps techniques and be able to provide solutions
 using industry standard tools and techniques such as continuous
 integration/delivery/deployment strategies, software development lifecycle, application
+2.Perform hand-on lab work by applying DevOps techniques.
