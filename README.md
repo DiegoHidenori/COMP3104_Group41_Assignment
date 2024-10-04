@@ -7,7 +7,7 @@
 - **Member 3:** Kaman Wong (101424041) - [GitHub](https://github.com/KamanWong0317)
 - **Member 4:** Naomi Teklu (101441399) - [GitHub](https://github.com/naomitek)
 - **Member 5:** Illia Konik () - [GitHub](https://github.com/xxxxxx)
-- **Member 6:** Hooman Hafsharnia () - [GitHub](https://github.com/ItsHooman)
+- **Member 6:** Hooman Hafsharnia (101466119) - [GitHub](https://github.com/ItsHooman)
 
 ## Project Description
 
