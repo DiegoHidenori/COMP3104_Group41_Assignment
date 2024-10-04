@@ -8,3 +8,5 @@ responsibilities of DevOps.
 using industry standard tools and techniques such as continuous
 integration/delivery/deployment strategies, software development lifecycle, application
 2.Perform hand-on lab work by applying DevOps techniques.
+3. Ensure effective cross collaboration amongst IT staff by following the role and
+responsibilities of an engineer.
