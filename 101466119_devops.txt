@@ -10,3 +10,4 @@ integration/delivery/deployment strategies, software development lifecycle, appl
 2.Perform hand-on lab work by applying DevOps techniques.
 3. Ensure effective cross collaboration amongst IT staff by following the role and
 responsibilities of an engineer.
+4. Analyze and utilize Version Control System workflows for low-risk software releases.
