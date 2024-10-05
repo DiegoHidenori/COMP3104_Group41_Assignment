@@ -5,7 +5,7 @@
 - **Leader:** Diego Tsukayama (101472085) - [GitHub](https://github.com/DiegoHidenori)
 - **Member 2:** Liz Cruz (101470163) - [GitHub](https://github.com/qanntu)
 - **Member 3:** Kaman Wong (101424041) - [GitHub](https://github.com/KamanWong0317)
-- **Member 4:** Naomi Teklu () - [GitHub](https://github.com/naomitek)
+- **Member 4:** Naomi Teklu (101441399) - [GitHub](https://github.com/naomitek)
 - **Member 5:** Illia Konik () - [GitHub](https://github.com/xxxxxx)
 - **Member 6:** Hooman Hafsharnia () - [GitHub](https://github.com/ItsHooman)
 
