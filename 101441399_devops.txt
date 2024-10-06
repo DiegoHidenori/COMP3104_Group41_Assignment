@@ -13,3 +13,4 @@ Key Concepts:
 DevOps is a set of practices that combines software development and IT operations.
 DevOps promotes teamwork across departments.
 DevOps promotes teamwork across departments.
+Automation reduces errors and speeds up processes.
