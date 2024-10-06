@@ -10,3 +10,7 @@ Key Concepts:
 6. Monitoring: Ensure performance with application monitoring and logging.
 7. Microservices: Discuss the shift from monolithic to microservices architecture.
 
+DevOps is a set of practices that combines software development and IT operations.
+DevOps promotes teamwork across departments.
+DevOps promotes teamwork across departments.
+Automation reduces errors and speeds up processes.
