@@ -1,0 +1,5 @@
+Hands-on Experience with DevOps Tools: The course provides practical experience with popular DevOps tools like Docker, Jenkins, Kubernetes, and CI/CD pipelines, which are essential for automating and streamlining development processes in modern software engineering.
+
+Increased Employability: DevOps skills are in high demand in the tech industry. Completing the COMP3104 course will equip you with valuable expertise that enhances your job prospects and makes you a more competitive candidate in roles like DevOps Engineer, Site Reliability Engineer (SRE), or Full Stack Developer.
+
+Understanding of Continuous Integration/Continuous Delivery (CI/CD): The course teaches the principles of CI/CD, helping you implement efficient workflows for faster and more reliable software delivery. This knowledge is crucial for organizations looking to improve productivity and minimize risks in their software development lifecycle.
