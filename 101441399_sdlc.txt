@@ -10,3 +10,4 @@ Key Benefits:
 6. Higher Satisfaction: Frequent releases meet customer expectations.
 Continuous delivery ensures that software is always ready for release.
 Frequent feedback helps teams improve their products.
+DevOps helps identify and mitigate risks early.
