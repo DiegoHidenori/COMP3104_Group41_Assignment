@@ -14,3 +14,4 @@ DevOps is a set of practices that combines software development and IT operation
 DevOps promotes teamwork across departments.
 DevOps promotes teamwork across departments.
 Automation reduces errors and speeds up processes.
+END.
